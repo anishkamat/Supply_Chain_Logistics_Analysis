@@ -47,14 +47,8 @@ I engineered the central analytical measures using advanced DAX to enforce corpo
 
 ## 🗺️ Dashboard Architecture & Visual Flow
 
-### 🗂️ Page 1: Executive Financials & Shipping Costs
-Provides the C-suite with a macro perspective on global revenue, true net profit margins, and a granular breakdown of fulfillment cost trends across product divisions.
+<img width="886" height="500" alt="dashboard homepage" src="https://github.com/user-attachments/assets/d4fb669d-50d6-4105-931b-988c513c80a8" />
 
-### 🗂️ Page 2: Logistics Carrier SLAs & Delay Root-Causes
-An operational deep-dive mapping carrier fulfillment timelines. Features specialized root-cause breakdowns isolating uncontrollable external issues (e.g., severe weather) from addressable process bottlenecks (e.g., customs clearance failures).
-
-### 🗂️ Page 3: Warehouse Capacity & Supplier Reliability
-A proactive risk-mitigation view that tracks current `WarehouseInventoryLevel` against `SafetyStockLevel`. It isolates "HighRisk" storage hubs vulnerable to stock-outs and correlates supplier performance scores against product damage rates.
 
 ---
 
